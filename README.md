@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola mi nombre es Sergio Garro 👋
 
-<!--
-**EZzero7/EZzero7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Soy un estudiante autodidacta de Data science, Data analyst y machine learning
 
-Here are some ideas to get you started:
+- 👔 Actualmente estoy en busqueda de mi primer trabajo dentro de la industria para poder crecer y aprender en proyectos ambiciosos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Me mantengo en constante aprendizaje para poder ser cada dia mejor y poder aportar lo maximo en cada funcion que me toque
+
+- 📭 Mi contacto es: 
+                      _ Linkedin https://www.linkedin.com/in/sergio-garro-b715941b4/
+                      _ gmail ezegarro8@gmail.com
+                      
+ Muchas Gracias..
