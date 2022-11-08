@@ -1,6 +1,6 @@
 ### Hola mi nombre es Sergio Garro 👋
 
-- 📚 Soy un estudiante autodidacta de Data science, Data analyst y machine learning
+- 📚 Soy un estudiante autodidacta de Data science, Data analyst,  Machine Learning y Backend con Python y Go
 
 - 👔 Actualmente estoy en busqueda de mi primer trabajo dentro de la industria para poder crecer y aprender en proyectos ambiciosos
 
